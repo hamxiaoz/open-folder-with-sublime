@@ -50,3 +50,7 @@ end subl
 ## Credits:
 - Source: [Brian Schlining's Blog](http://hohonuuli.blogspot.com/2013/07/open-filesfolder-selected-in-finder.html)
 - Icon: https://github.com/jamiewilson/predawn/tree/master/dock-icons
+
+## Looking the same thing for VS Code?
+
+Please see this repo [open-folder-with-vs-code](https://github.com/hamxiaoz/open-folder-with-vs-code)
